@@ -27,6 +27,7 @@
       <CellType TypeId="2" TypeName="EPI"/>
       <CellType TypeId="3" TypeName="MYO"/>
       <CellType TypeId="4" TypeName="MEM"/>
+      <CellType TypeId="5" TypeName="MAC"/>
    </Plugin>
    
    <Plugin Name="Volume"/>
